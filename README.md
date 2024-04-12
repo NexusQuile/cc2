@@ -6,6 +6,4 @@ Once the custom colour has been selected, it is saved to the user's settings so 
 
 Not tested in multiplayer.
 
-![screenshot2](https://github.com/NexusQuile/cc2-CustomSkin-Hair/assets/104992166/8439d09d-5dfe-4b54-8c14-1304f4f7c992)
-![screenshot1](https://github.com/NexusQuile/cc2-CustomSkin-Hair/assets/104992166/0a0e2f42-9355-4d93-bb2d-5b2c0b886e51)
-
+![screenshot1](https://github.com/NexusQuile/cc2-CustomSkin-Hair/assets/104992166/0a0e2f42-9355-4d93-bb2d-5b2c0b886e51) ![screenshot2](https://github.com/NexusQuile/cc2-CustomSkin-Hair/assets/104992166/9bf75ec1-a10e-4525-b1ea-f266b9533937)
